@@ -47,7 +47,7 @@
 | Файлы | Автор / источник | Лицензия | Статус |
 | --- | --- | --- | --- |
 | `assets/audio/ambience/alarm_bed.ogg` | OpenAI / ChatGPT, программный синтез | Собственная генерация, свободное коммерческое использование | Все ок |
-| `assets/audio/ambience/facility_hum.ogg` | OpenAI / ChatGPT, программный синтез | Собственная генерация, свободное коммерческое использование | Проверить |
+| `assets/audio/ambience/facility_hum.ogg` | OpenAI / ChatGPT, программный синтез | Собственная генерация, свободное коммерческое использование | Все ок |
 | `assets/audio/ambience/sirena.mp3` | https://sound-pack.net/zvuk-sireny-dlya-filma-uzhasov-no-fx-mp3 | CC0 | Все ок |
 | `assets/audio/ui/ui_click.ogg` | OpenAI / ChatGPT, программный синтез | Собственная генерация, свободное коммерческое использование | Все ок |
 | `assets/audio/ui/ui_hover.ogg` | OpenAI / ChatGPT, программный синтез | Собственная генерация, свободное коммерческое использование | Все ок |
